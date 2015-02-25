@@ -1,0 +1,9 @@
+*.iso
+
+#Hack from boot2docker/boot2docker
+*.iso__BROKEN
+
+.gitignore
+
+buildandrestartb2d.sh
+.DS_Store
